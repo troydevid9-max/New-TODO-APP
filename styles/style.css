@@ -76,6 +76,10 @@ header {
     white-space: nowrap;
 }
 
+.greet h1{
+    font-size: 3rem;
+}
+
 .recent {
     height: auto;
     padding: 0 8px;
