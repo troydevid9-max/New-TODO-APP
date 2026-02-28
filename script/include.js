@@ -28,10 +28,5 @@ const load = async (id, file) => {
 
        load("header", "../COMPONENTS/header.html")
     //    load("footer", "../COMPONENTS/footer.html")
-
-
-
-
-
     }
 
