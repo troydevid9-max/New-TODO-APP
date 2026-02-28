@@ -27,13 +27,9 @@ const load = async (id, file) => {
     if (pageType === "public") {
 
        load("header", "../COMPONENTS/header.html")
-       load("footer", "../COMPONENTS/footer.html")
+    //    load("footer", "../COMPONENTS/footer.html")
 
 
-
-
-        // await load("header", "../COMPONENTS/header.html")
-        // await load("footer", "../COMPONENTS/footer.html")
 
 
 
